@@ -158,8 +158,12 @@
         "signature": "a8398bcf13cdbee00357a65e8eda5a9114c62c1369278462b672a2f9b6b7219f"
       },
       "./l02_firstfudge/main.ts": {
-        "version": "b2551e2c35be73efec1fc4bbd41ae42ef5e2d3c0dc6f990a84405ec45ad73400",
+        "version": "89593becc57baa324fb305342b0ae9917a1645b5ae5cc25d269c933cede08a5b",
         "signature": "cb6f510eb40b05aa4566f7c1115d67c132bbe566423d514864d2bd486dae8aab"
+      },
+      "./l03_pongpaddles/main.ts": {
+        "version": "8d8b4f5edd2ac16a46c64dfaaae882be883ebebcb0abc0ed336b7618917db0db",
+        "signature": "a7d7674951e38f1e852bb299a3cea0e85b4b3732def3ed6afe42b7c2490a782d"
       }
     },
     "options": {
@@ -226,7 +230,8 @@
       "../../../appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
       "../../../appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.full.d.ts",
       "./fudge/fudgecore.d.ts",
-      "./l02_firstfudge/main.ts"
+      "./l02_firstfudge/main.ts",
+      "./l03_pongpaddles/main.ts"
     ]
   },
   "version": "3.6.3"
